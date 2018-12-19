@@ -168,3 +168,18 @@ header.masthead .bg-circle-4 {
   -webkit-box-shadow: 0 0 0 0.2rem rgba(255, 106, 0, 0.5);
   box-shadow: 0 0 0 0.2rem rgba(255, 106, 0, 0.5);
 }
+
+.btn-new {
+  background-color: #fff;
+  border-color: #fff;
+}
+
+.btn-new:active, .btn-new:focus, .btn-new:hover {
+  background-color: #eee !important;
+  border-color: #eee !important;
+}
+
+.btn-new:focus {
+  -webkit-box-shadow: 0 0 0 0.2rem rgba(238, 9, 121, 0.5);
+  box-shadow: 0 0 0 0.2rem rgba(238, 9, 121, 0.5);
+}
